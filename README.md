@@ -1,7 +1,6 @@
 ### Hi there, I'm Sihab Sahariar 👋
 
-I’m a GUI Developer and a software development enthusiast lives in Dhaka, Bangladesh. I’ve 3 years of experience in GUI and python based product development. Currently, I am working with Mongol-Tori Team (Mars Rover Team, BRAC University) as Sub-Team Lead of Control & Software Sub-Sytem. Previously, I had worked with acciGone as a GUI Developer. On education part, I'm doing BSc in CSE at BRAC University. I have good knowledge of development and problem solving. I'm a passionate technical/theoritical problem solver.
-
+I’m a Robotic and Software development enthusiast lives in Dhaka, Bangladesh. I’ve nearly 3 years of experience in GUI development and Robotics. Currently, I've been working with BRACU DICHARI Team in Rover Control & Autonomy.  In the past, I've worked with BRACU Mongol-Tori (Mars Rover Team From BRAC University) as a Sub-Team Lead of Control & Software and acciGone as  a GUI Developer. I have good knowledge of development and problem solving . I'm a passionate problem solver.
 
 ![GitHub followers](https://img.shields.io/github/followers/SihabSahariar?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SihabSahariar)
