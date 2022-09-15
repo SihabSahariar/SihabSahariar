@@ -37,6 +37,7 @@ I’m a Robotic and Software development enthusiast lives in Dhaka, Bangladesh. 
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-55153D?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-FF2F00.svg?logo=YOLO&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     
 </p>
@@ -65,7 +66,7 @@ I’m a Robotic and Software development enthusiast lives in Dhaka, Bangladesh. 
 </p>
 
 
-### 💻 Hardware and Robotics
+### 💻 Embedded System and Robotics
 
 <p>
     <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-302E31?logo=raspberrypi&logoColor=white"></a>
