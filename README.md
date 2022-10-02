@@ -1,6 +1,6 @@
 ### Hi there, I'm Sihab Sahariar 👋
 
-I’m a Robotic and Software development enthusiast lives in Dhaka, Bangladesh. I’ve nearly 3 years of experience in Software development and Robotics. Currently, I've been working with Lynkeus.AI Korea as a Software Engineer and BRACU DICHARI as the lead of Software & Control Team.  In the past, I've worked with BRACU Mongol-Tori (Mars Rover Team From BRAC University) as a Sub-Team Lead of Control & Software and acciGone as  a GUI Developer. I have good knowledge of development and problem solving . I'm a passionate problem solver.
+I’m a Robotic and Software development enthusiast lives in Dhaka, Bangladesh. I’ve nearly 3 years of experience in Software development and Robotics. Currently, I've been working with Lynkeus.AI Korea as a Software Engineer and BRACU DICHARI as the Team Leader.  In the past, I've worked with BRACU Mongol-Tori (Mars Rover Team From BRAC University) as a Sub-Team Lead of Control & Software and acciGone as  a GUI Developer. I have good knowledge of development and problem solving . I'm a passionate problem solver.
 
 ![GitHub followers](https://img.shields.io/github/followers/SihabSahariar?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SihabSahariar)
