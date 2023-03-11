@@ -9,7 +9,7 @@ I’m Sihab Sahariar, a Robotic and Software development enthusiast from BRAC Un
 
 <hr>
 
-![my github activity graph](https://activity-graph.herokuapp.com/graph?username=SihabSahariar&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
+![my github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sihabsahariar&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
 <hr>
 
