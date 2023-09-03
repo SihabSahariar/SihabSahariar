@@ -5,14 +5,6 @@ I’m Sihab Sahariar, a Robotic and Software development enthusiast from BRAC Un
 ![GitHub followers](https://img.shields.io/github/followers/SihabSahariar?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SihabSahariar)
 
-![Metrics](https://metrics.lecoq.io/SihabSahariar)
-
-<hr>
-
-![my github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sihabsahariar&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
-
-<hr>
-
 
 ## 🛠️ My favorite tools
 
