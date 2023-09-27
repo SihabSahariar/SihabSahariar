@@ -3,7 +3,7 @@
 I’m Sihab Sahariar, a Robotic and Software development enthusiast from BRAC University. I’ve nearly 4 years of experience in Software development and Robotics. Currently, I've been working as a Software Engineer(Video Analytics SWE Team) at Lynkeus AI (A Korean Software Company). Morever, I've been contributing in BRACU DICHARI Team as the Team Lead, specially in Rover Control, AI & Autonomy. In the past, I've worked with BRACU Mongol-Tori (Mars Rover Team From BRAC University) as the Sub-Team Lead of Control & Software. I've worked with acciGone(An ADAS development company) as a Graphical User Interface(GUI) Developer. I have sound knowledge of Robotics, AI, Computer Vision & Software Development. In my free time, I usually love to solve algorithmic problems on different online judges. 
 
 ![GitHub followers](https://img.shields.io/github/followers/SihabSahariar?label=Follow&style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=SihabSahariar)
+
 
 
 ## 🛠️ My favorite tools
