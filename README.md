@@ -1,6 +1,12 @@
 ### Hi there, I'm Sihab Sahariar 👋
 
-I’m Sihab Sahariar, a Robotic and Software development enthusiast from BRAC University. I’ve nearly 5 years of experience in Software development and Robotics. Currently, I've been working as a Software Engineer as allgentech - AGT. Previously I've work as a SWE(Video Analytics SWE Team) at Lynkeus AI (A Korean Software Company). Morever, I've contributed in BRACU DICHARI as the Team Lead, specially in Rover Control, AI & Autonomy. In the past, I've worked with BRACU Mongol-Tori (Mars Rover Team From BRAC University) as the Sub-Team Lead of Control & Software. I've worked with acciGone(An ADAS development company) as a Graphical User Interface(GUI) Developer. I have sound knowledge of Robotics, AI, Computer Vision & Software Development. In my free time, I usually love to solve algorithmic problems on different online judges. 
+I am a dedicated enthusiast in the fields of software development and robotics R&D, hailing from Dhaka, Bangladesh. With nearly five years of hands-on experience, I have cultivated a deep passion for solving complex problems through innovative technology solutions.
+
+Currently, I've been working as a Software Development Engineer at iBAnalytica. 
+Previously I've worked in AGT as an Application Engineer and as a SWE (Video Analytics Team) at Lynkeus AI (a Korean software company). Moreover, I've contributed to BRACU DICHARI as the team lead, especially in rover control, AI & autonomy. In the past, I've worked with BRACU Mongol-Tori (Mars Rover Team From BRAC University) as the Sub-Team Lead of Control & Software. I've worked with acciGone (an ADAS development company) as a Graphical User Interface (GUI) Developer. I am not only a developer but also a passionate problem solver, constantly seeking opportunities to push the boundaries of what's possible.
+
+My coding journey can be explored further through my profiles on platforms like StopStalk (CP Profile), LeetCode (LeetCode Profile), and my personal portfolio, where I showcase my projects and contributions. I am excited about the endless possibilities at the intersection of software and robotics, and I am always open to connecting with like-minded professionals and opportunities for collaboration. Let's innovate and build the future together
+
 
 ![GitHub followers](https://img.shields.io/github/followers/SihabSahariar?label=Follow&style=social)
 
