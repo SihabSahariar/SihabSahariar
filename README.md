@@ -2,8 +2,8 @@
 
 I am a dedicated enthusiast in the fields of software development and robotics R&D, hailing from Dhaka, Bangladesh. With nearly five years of hands-on experience, I have cultivated a deep passion for solving complex problems through innovative technology solutions.
 
-Currently, I've been working as a Software Development Engineer at iBAnalytica. 
-Previously I've worked in AGT as an Application Engineer and as a SWE (Video Analytics Team) at Lynkeus AI (a Korean software company). Moreover, I've contributed to BRACU DICHARI as the team lead, especially in rover control, AI & autonomy. In the past, I've worked with BRACU Mongol-Tori (Mars Rover Team From BRAC University) as the Sub-Team Lead of Control & Software. I've worked with acciGone (an ADAS development company) as a Graphical User Interface (GUI) Developer. I am not only a developer but also a passionate problem solver, constantly seeking opportunities to push the boundaries of what's possible.
+Currently, I've been working working as the CTO @Veracyn and as Senior Software Engineer (AI) @Lynkeus
+Previously I've worked in AGT as an Application Engineer and as a SWE (Video Analytics Team) and as a Software Development Engineer at iBAnalytica. Moreover, I've contributed to BRACU DICHARI as the team lead, especially in rover control, AI & autonomy. In the past, I've worked with BRACU Mongol-Tori (Mars Rover Team From BRAC University) as the Sub-Team Lead of Control & Software. I've worked with acciGone (an ADAS development company) as a Graphical User Interface (GUI) Developer. I am not only a developer but also a passionate problem solver, constantly seeking opportunities to push the boundaries of what's possible.
 
 My coding journey can be explored further through my profiles on platforms like StopStalk (CP Profile), LeetCode (LeetCode Profile), and my personal portfolio, where I showcase my projects and contributions. I am excited about the endless possibilities at the intersection of software and robotics, and I am always open to connecting with like-minded professionals and opportunities for collaboration. Let's innovate and build the future together
 
